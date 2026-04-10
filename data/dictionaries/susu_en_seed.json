@@ -1,0 +1,24 @@
+{
+  "word": "xɔrɔ",
+  "pos": "noun",
+  "definitions": [
+    {
+      "lang": "en",
+      "text": "house"
+    }
+  ],
+  "examples": [
+    {
+      "susu": "N na xɔrɔ ra.",
+      "en": "I am at home."
+    }
+  ],
+  "audio": {
+    "male": "audio/male/xɔrɔ_01.mp3",
+    "female": "audio/female/xɔrɔ_01.mp3",
+    "child": "audio/child/xɔrɔ_01.mp3"
+  },
+  "script": {
+    "kore": "𞤳𞤮𞤪𞤮"
+  }
+}
