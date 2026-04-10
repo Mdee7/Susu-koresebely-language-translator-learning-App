@@ -1,0 +1,24 @@
+[project]
+name = "susu-koresebely-language-translator-learning-app"
+version = "0.1.0"
+description = "Starter monorepo for Susu ↔ English ↔ Koré Sèbèli translation and learning"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "fastapi>=0.116.0",
+  "uvicorn>=0.35.0",
+  "pydantic>=2.11.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.4.0",
+  "httpx>=0.28.0",
+]
+
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.pytest.ini_options]
+testpaths = ["apps/api/tests"]

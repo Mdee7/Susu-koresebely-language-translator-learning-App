@@ -1,0 +1,17 @@
+{
+  "char": "𞤳",
+  "name": "ka",
+  "unicode": "U+1E0B3",
+  "pua": "E000",
+  "stroke_order": [
+    "stroke1.png",
+    "stroke2.png"
+  ],
+  "audio": "audio/script/ka.mp3",
+  "examples": [
+    {
+      "word": "kanyi",
+      "script": "𞤳𞤢𞤲𞤴𞤭"
+    }
+  ]
+}
